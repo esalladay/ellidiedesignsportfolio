@@ -13,7 +13,7 @@ body
   font-family: 'Barlow', sans-serif;
   background-attachment: fixed;
   background-color: #ffffff;
-  background-image: url(images/portfoliopatterns.png);
+  background-image: url(/images/portfoliopatterns.svg);
 }
 
 hr{
